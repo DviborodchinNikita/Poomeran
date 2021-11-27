@@ -1,5 +1,4 @@
 <html>
-<title> Порода Померанский Шпиц </title>
 <body style="background-color:#00bbae"> 
 <header style="background-color:#1b9400">
     <img scr="https://petsi.net/images/dogbreed/pomeranian.jpg"width="20px" height="20px"/>
